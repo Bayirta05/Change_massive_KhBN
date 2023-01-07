@@ -1,0 +1,15 @@
+C:\Users\bayra\Desktop\Final_first_KhBN\Change_massive_KhBN\bin\Debug\net6.0\Change_massive_KhBN.exe
+C:\Users\bayra\Desktop\Final_first_KhBN\Change_massive_KhBN\bin\Debug\net6.0\Change_massive_KhBN.deps.json
+C:\Users\bayra\Desktop\Final_first_KhBN\Change_massive_KhBN\bin\Debug\net6.0\Change_massive_KhBN.runtimeconfig.json
+C:\Users\bayra\Desktop\Final_first_KhBN\Change_massive_KhBN\bin\Debug\net6.0\Change_massive_KhBN.dll
+C:\Users\bayra\Desktop\Final_first_KhBN\Change_massive_KhBN\bin\Debug\net6.0\Change_massive_KhBN.pdb
+C:\Users\bayra\Desktop\Final_first_KhBN\Change_massive_KhBN\obj\Debug\net6.0\Change_massive_KhBN.csproj.AssemblyReference.cache
+C:\Users\bayra\Desktop\Final_first_KhBN\Change_massive_KhBN\obj\Debug\net6.0\Change_massive_KhBN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayra\Desktop\Final_first_KhBN\Change_massive_KhBN\obj\Debug\net6.0\Change_massive_KhBN.AssemblyInfoInputs.cache
+C:\Users\bayra\Desktop\Final_first_KhBN\Change_massive_KhBN\obj\Debug\net6.0\Change_massive_KhBN.AssemblyInfo.cs
+C:\Users\bayra\Desktop\Final_first_KhBN\Change_massive_KhBN\obj\Debug\net6.0\Change_massive_KhBN.csproj.CoreCompileInputs.cache
+C:\Users\bayra\Desktop\Final_first_KhBN\Change_massive_KhBN\obj\Debug\net6.0\Change_massive_KhBN.dll
+C:\Users\bayra\Desktop\Final_first_KhBN\Change_massive_KhBN\obj\Debug\net6.0\refint\Change_massive_KhBN.dll
+C:\Users\bayra\Desktop\Final_first_KhBN\Change_massive_KhBN\obj\Debug\net6.0\Change_massive_KhBN.pdb
+C:\Users\bayra\Desktop\Final_first_KhBN\Change_massive_KhBN\obj\Debug\net6.0\Change_massive_KhBN.genruntimeconfig.cache
+C:\Users\bayra\Desktop\Final_first_KhBN\Change_massive_KhBN\obj\Debug\net6.0\ref\Change_massive_KhBN.dll

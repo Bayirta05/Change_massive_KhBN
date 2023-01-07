@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bayra\\Desktop\\Final_first_KhBN\\Change_massive_KhBN\\Change_massive_KhBN.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bayra\\Desktop\\Final_first_KhBN\\Change_massive_KhBN\\Change_massive_KhBN.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bayra\\Desktop\\Final_first_KhBN\\Change_massive_KhBN\\Change_massive_KhBN.csproj",
+        "projectName": "Change_massive_KhBN",
+        "projectPath": "C:\\Users\\bayra\\Desktop\\Final_first_KhBN\\Change_massive_KhBN\\Change_massive_KhBN.csproj",
+        "packagesPath": "C:\\Users\\bayra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bayra\\Desktop\\Final_first_KhBN\\Change_massive_KhBN\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bayra\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
